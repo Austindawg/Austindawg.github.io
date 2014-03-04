@@ -12,10 +12,10 @@ Your Public Site
 
 ## headline
 -add an image
-!(My picture)(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhtFQzqrpvs0pUS7YymQqVMCHRxwlmbSh_N4Jdj3hNvMDsjmpX)
+![My Picture](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhtFQzqrpvs0pUS7YymQqVMCHRxwlmbSh_N4Jdj3hNvMDsjmpX)
 
 -link to website
-(visit georgia)(http://www.georgiadogs.com/)
+[visit georgia](http://www.georgiadogs.com/)
 
 -add something new
 :two_hearts:
